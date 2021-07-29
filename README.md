@@ -1,3 +1,3 @@
-QR_Generator
+<h3>QR_Code_Generator</h3>
 
-Generating QR using qrcode package (node js)
+Generating QR code using qrcode package (node js).
