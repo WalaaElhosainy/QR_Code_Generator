@@ -33,4 +33,4 @@ app.post("/scan", (req, res) => {
 
 // Setting up the port for listening requests
 const port = 5000;
-app.listen(port, () => console.log("Server at 5000"));
+app.listen(port, () => console.log("Server listen on port 5000"));
